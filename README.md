@@ -1,3 +1,8 @@
+## Colab
+<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1qdGSvU4ZhHEZQOOcWvcF-1MpQVqwhq5J?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # diff-svc
 基于[DiffSinger非官方仓库](https://github.com/keonlee9420/DiffSinger) 实现的 [diffsvc](https://github.com/prophesier/diff-svc)
 
